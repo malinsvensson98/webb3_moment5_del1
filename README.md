@@ -12,7 +12,7 @@ Utvecklaren väljer då post -> länk -> och sedan fylls värdena i genom body. 
 
 Läsas: https://malinsvensson.se/miun/webbutveckling3/moment5/api/read.php genom GET -> länk --> sedan kommer värdena dycka upp
 
-Läsas ut som enskild: https://malinsvensson.se/miun/webbutveckling3/moment5/api/read.php  + ?id= och valfritt id, detta genom GET --> länk + id --> värden läses ut
+Läsas ut som enskild: https://malinsvensson.se/miun/webbutveckling3/moment5/api/read_one.php  + ?id= och valfritt id, detta genom GET --> länk + id --> värden läses ut
 
 Raderas med delete: https://malinsvensson.se/miun/webbutveckling3/moment5/api/delete.php + ?id= och valfritt id som ska raderas, detta genom DELETE --> länk + id
 
