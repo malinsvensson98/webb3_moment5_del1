@@ -8,7 +8,7 @@ Repositoryt som du nu är inne i, del 1 innehåller tre mappar.
 
 I den skapade webbtjänsten kan kurser lagras, vilket kan testas genom följande adress i advanced rest client eller postman:
 https://malinsvensson.se/miun/webbutveckling3/moment5/create.php 
-Utvecklaren väljer då post -> länk -> och sedan fylls värdena i gemom body. ID fylls inte i då det är ett AI och fylls på av sig självt. 
+Utvecklaren väljer då post -> länk -> och sedan fylls värdena i genom body. ID fylls inte i då det är ett AI och fylls på av sig självt. 
 
 Läsas: https://malinsvensson.se/miun/webbutveckling3/moment5/read.php genom GET -> länk --> sedan kommer värdena dycka upp
 
